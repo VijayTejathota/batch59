@@ -1,0 +1,4 @@
+sum = 10
+add =10
+int = sum+add
+print("hello world sum and add")
